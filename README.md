@@ -3,8 +3,8 @@ Este projeto foi desenvolvido faz parte das disciplinas de matematica e Desenvol
 
 ## grupo
 
-*Laura M
-*Júlia G
-*Mª Luiza Souza
-*Amanda
-*Anielle
+Laura M
+Júlia G
+Mª Luiza Souza
+Amanda
+Anielle
